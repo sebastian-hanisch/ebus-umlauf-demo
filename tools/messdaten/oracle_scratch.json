@@ -1,0 +1,56 @@
+{
+ "elektro": {
+  "zufall|99": {
+   "verglichen": 150,
+   "unzulaessig": 0,
+   "abweichungen": 0,
+   "mit_aufschlag": 23,
+   "platzgrenze_wirkt": 0
+  },
+  "takt|99": {
+   "verglichen": 144,
+   "unzulaessig": 6,
+   "abweichungen": 0,
+   "mit_aufschlag": 97,
+   "platzgrenze_wirkt": 0
+  },
+  "zufall|1": {
+   "verglichen": 150,
+   "unzulaessig": 0,
+   "abweichungen": 0,
+   "mit_aufschlag": 25,
+   "platzgrenze_wirkt": 1
+  },
+  "takt|1": {
+   "verglichen": 139,
+   "unzulaessig": 11,
+   "abweichungen": 0,
+   "mit_aufschlag": 98,
+   "platzgrenze_wirkt": 9
+  },
+  "zufall|2": {
+   "verglichen": 150,
+   "unzulaessig": 0,
+   "abweichungen": 0,
+   "mit_aufschlag": 23,
+   "platzgrenze_wirkt": 0
+  },
+  "takt|2": {
+   "verglichen": 145,
+   "unzulaessig": 5,
+   "abweichungen": 0,
+   "mit_aufschlag": 113,
+   "platzgrenze_wirkt": 0
+  }
+ },
+ "gemischt": {
+  "zufall": {
+   "verglichen": 300,
+   "abweichungen": 0
+  },
+  "takt": {
+   "verglichen": 300,
+   "abweichungen": 0
+  }
+ }
+}
