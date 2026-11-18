@@ -1,7 +1,6 @@
 # Elektrobus-Umlauf: Wie viele Busse braucht das Laden? – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-ebus-umlauf-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-ebus-umlauf-demo.streamlit.app/)**
 
 Fall-Demo für die Website „Sebastian Hanisch – Operations Research und Machine Learning“ (`demos.html`; Themenseite „Energie und Elektromobilität optimieren“ in Vorbereitung). Eine **Buslinie mit zwei Endhaltepunkten und höchstens {{ C.MAX_TRIPS }} Fahrten** (bewusst **Demo-Größe**: dort beweist der exakte Löser die meisten Zellen in Sekunden, ohne Laden und mit kleiner Batterie bleibt der Beweis oft aus): Wie viele Busse braucht der Umlauf, wenn die Busse elektrisch fahren, eine Batteriegrenze haben und in den Wendezeiten an den Endhaltepunkten laden? Die Demo vergleicht den **Dieselumlauf** (ohne Batteriegrenze, exakt und mit Beweis), **einfache Regeln** und ein **exaktes Verfahren** (CP-SAT) mit Beweis-Status, und beantwortet vier Fragen: den **Aufschlag** je Batterie und Ladeleistung, die **Ladeplätze** am Endhaltepunkt, den Abstand der Regeln zum **bewiesenen Optimum** und die Zahl der **Dieselbusse bei fester Flottengröße**.
 
